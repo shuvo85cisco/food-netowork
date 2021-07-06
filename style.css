@@ -46,13 +46,6 @@ h4{
 .gray-color{
     color: gray;
 }
-.white-color{
-    margin-top: 0;
-    color: gray;
-    font-weight: 700;
-    text-decoration: none;
-
-}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -79,6 +72,10 @@ width: 50em;
 #in-center{
    text-align: center;
 }
+/*.fourth-section{
+    margin-top: 50px;
+}
+*/
 .half-width-experience-iteam{
     width: 33%;
     margin-left: 5%;
@@ -103,4 +100,11 @@ width: 50em;
 .final-div{
     text-align: center;
     background-color: black;
+}
+.white-color{
+    margin-top: 10px;
+    color: gray;
+    font-weight: 700;
+    text-decoration: none;
+
 }
