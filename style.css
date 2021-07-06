@@ -43,6 +43,16 @@ h4{
 .orange-color{
     color: orange;
 }
+.gray-color{
+    color: gray;
+}
+.white-color{
+    margin-top: 0;
+    color: gray;
+    font-weight: 700;
+    text-decoration: none;
+
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -86,10 +96,11 @@ width: 50em;
     margin-right: 5%;
     box-shadow: 10px 10px 40px black;
     border-radius: 10px;
-
-
-
 }
 .h2-space{
     padding-left: 16%;
+}
+.final-div{
+    text-align: center;
+    background-color: black;
 }
