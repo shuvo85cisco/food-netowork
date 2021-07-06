@@ -72,14 +72,11 @@ width: 50em;
 #in-center{
    text-align: center;
 }
-/*.fourth-section{
-    margin-top: 50px;
-}
-*/
+
 .half-width-experience-iteam{
     width: 33%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 4.5%;
+    margin-right: 4.5%;
     padding: 10px;
     box-shadow: 10px 10px 40px black;
     border-radius: 10px;
