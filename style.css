@@ -15,9 +15,27 @@ body{
     width: 50%;
     padding-left: 5%;
 }
+.half-width2 img{
+    width: 100%;
+}
+.half-width3{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width3 img{
+    width: 50%;
+}
+.half-width2{
+    width: 50%;
+    padding-left: 5%;
+}
 h1{
     font-size: 60px;
     margin: 1px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 100px;
 }
 .orange-color{
     color: orange;
@@ -33,4 +51,10 @@ h1{
 }
 p{
     margin-bottom: 50px;
+}
+.second-section{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    margin: 0;
+   
 }
