@@ -4,7 +4,7 @@ body{
 }
 .flex-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 50%;
@@ -35,10 +35,10 @@ h1{
 }
 h2{
     font-size: 40px;
-    margin-top: 100px;
+    margin-top: 80px;
 }
-h3{
-    font-size: 30px;
+h4{
+    font-size: 20px;
 }
 .orange-color{
     color: orange;
@@ -68,4 +68,28 @@ width: 50em;
 }
 #in-center{
    text-align: center;
+}
+.half-width-experience-iteam{
+    width: 33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+
+}
+.half-width-experience-iteam img{
+    width: 100%;
+}
+.three-iteams-together{
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 10px;
+
+
+
+}
+.h2-space{
+    padding-left: 16%;
 }
